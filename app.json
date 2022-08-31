@@ -3,8 +3,15 @@
     "name": "teapoio",
     "slug": "teapoio",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "assetBundlePatterns": ["**/*"],
+    "plugins": ["@react-native-firebase/app"],
+    "android": {
+      "package": "com.teapoio",
+      "googleServicesFile": "./google-services.json"
+    },
+    "ios": {
+      "bundleIdentifier": "com.teapoio",
+      "googleServicesFile": "./GoogleService-info.plist"
+    }
   }
 }

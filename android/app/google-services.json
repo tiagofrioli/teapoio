@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "736038647588",
+    "project_id": "teapoio",
+    "storage_bucket": "teapoio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736038647588:android:c8bdfa7f09225eb7fe65b1",
+        "android_client_info": {
+          "package_name": "com.teapoio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736038647588-6p6mf49iju3t8gb62f0dtrgdhflatlle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw3mGl14lxrSdFuL9UOZervZ885kC1C2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736038647588-6p6mf49iju3t8gb62f0dtrgdhflatlle.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "736038647588-en9nob1mtprugnlu6ee997t7dgm75hut.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.teapoio"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
